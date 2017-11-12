@@ -34,7 +34,7 @@
 			</c:forEach>
 		</select>
 		
-		<br> Função: <input name="funcao" type="text">
+		<br> Função: <input name="funcao" type="text"><br>
 		<button type="submit">Salvar</button>
 	</form>
 
