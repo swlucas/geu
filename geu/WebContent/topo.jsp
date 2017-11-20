@@ -18,6 +18,13 @@
                 <li><a href="/geu/blocos">Listar</a></li>
                 <li><a href="/geu/blocos?q=new">Novo</a></li>
               </ul>
+              <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tipos <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/geu/tipos">Listar</a></li>
+                <li><a href="/geu/tipos?q=new">Novo</a></li>
+              </ul>
+            </li>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Espacos <span class="caret"></span></a>
